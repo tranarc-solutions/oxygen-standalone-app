@@ -1,0 +1,11 @@
+{
+  "version": "0.0.2",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2025-03-05T00:21:09.073Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV1dUUndYUWJMb2pvNHVoVzFQYzhqWkxYcU1uQ2t1cFk5Mkx4VU0rT1pPc08xc2lHM011VGEvYWdrdnoySVhjeWd2L2dTQmF5UUtZNTY2MWRGOEhwWTlCVlNnN3p1ckFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQxMTM0MDY0CWZpbGU6T3h5Z2VuLmFwcC50YXIuZ3oKUGVVMVFNT1BtVkx4SEJxWVZwWmtnZlJVVnAvZzdPWGlwSTg5L0Y0Yi9Rd0F6OVRMRlBJZk9OTTJEM1prRGk4cVpRdm5maGhJOC9xWHc0eGVncG8rQWc9PQo=",
+      "url": "https://github.com/tranarc-solutions/oxygen-standalone/releases/download/v0.0.2/Oxygen_x64.app.tar.gz"
+    }
+  }
+}
